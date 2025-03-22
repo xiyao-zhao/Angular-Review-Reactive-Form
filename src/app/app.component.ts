@@ -5,7 +5,6 @@ import {
   FormArray,
   FormControl,
   FormGroup,
-  ValidationErrors,
   Validators,
 } from '@angular/forms';
 import { Observable } from 'rxjs';
